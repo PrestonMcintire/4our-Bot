@@ -1,0 +1,22 @@
+{
+  "name": "4our-bot",
+  "version": "1.0.0",
+  "description": "Open source Advanced Server Management Discord Bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord",
+    "Bot"
+  ],
+  "author": "Preston Mcintire",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "moment": "^2.30.1",
+    "os": "^0.1.2"
+  }
+}
